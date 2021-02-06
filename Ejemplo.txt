@@ -1,2 +1,2 @@
 "Function A" 
-"Funtion B" 
+"Function B" 
